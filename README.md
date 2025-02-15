@@ -1,4 +1,4 @@
-<img width="1462" alt="Clock" src="https://github.com/user-attachments/assets/b902ed88-d287-4575-a229-33756dcd8c5b" />his project is a simple digital clock built using HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds, updating every second.
+This project is a simple digital clock built using HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds, updating every second.
 
 Features
 
